@@ -4,7 +4,7 @@ Este projeto é uma aplicação interativa desenvolvida em **JavaScript**, com f
 O objetivo do jogo é simples: o usuário deve adivinhar um número secreto entre 1 e 10, recebendo feedback imediato da aplicação.  
 
 **Acesse o projeto funcionando:**  
-[Jogar Agora](https://magnofnobrega-jogo-01.vercel.app/)
+[Jogar Agora - clique em Allow quando abrir a página para habilitar a integração API de Voz (ResponsiveVoice)](https://magnofnobrega-jogo-01.vercel.app/)
 
 ---
 
@@ -33,7 +33,7 @@ O objetivo do jogo é simples: o usuário deve adivinhar um número secreto entr
 
 ## Demonstração
 
-![Demonstração do jogo](./img/preview.png)  
+![Demonstração do jogo](/img/preview.png.jpg)  
 
 ---
 
@@ -60,11 +60,11 @@ Durante o desenvolvimento deste projeto, foram reforçadas habilidades em:
 
 ## Estrutura do Projeto
 
-📦 Jogo do Número Secreto
-├── index.html # Estrutura da aplicação
-├── style.css # Estilização responsiva
-├── app.js # Lógica em JavaScript
-└── img/ # Recursos visuais (imagens)
+📦 **Jogo do Número Secreto**  
+`|--  index.html` # Estrutura da aplicação  
+`|-- style.css` # Estilização responsiva  
+`|-- app.js` # Lógica em JavaScript  
+`|-- img/ ` # Recursos visuais (imagens)  
 
 ---
 
